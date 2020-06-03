@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    margin-top: 200px;
+    background-color: azure;
+}
+
+#name, #pass, #button {
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+}
+
+/* #pass {
+    margin-top: 20px;
+    margin-left: 20px;
+} */
